@@ -8,8 +8,8 @@ FROM resin/rpi-raspbian:jessie
 ```
 to any of the base OS images from the [resin.io docker hub](https://registry.hub.docker.com/repos/resin/).
 
-For an explination on how [resin.io](https://resin.io/) uses Dockerfiles check out the [Dockerfile guide](http://docs.resin.io/#/pages/dockerfile.md)
- . Additionally if you want to learn how to optimise your Dockerfile look over [here](http://docs.resin.io/#/pages/build-optimisation.md)
+For an explination on how [resin.io](https://resin.io/) uses Dockerfiles check out the [Dockerfile guide](http://docs.resin.io/#/pages/using/dockerfile.md)
+ . Additionally if you want to learn how to optimise your Dockerfile look over [here](http://docs.resin.io/#/pages/using/build-optimisation.md)
 
 
 __Note:__ Obviously apt package manager will only work in Debian environments.
